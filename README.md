@@ -4,4 +4,4 @@ This a file system where we can store data. This system may easily done by other
 
 #Check All Basic About File in C# : https://github.com/MahbubTanmay/All-Basic-About-File-Operation-in-Csharp
 
-#Check Basics About Array in C# : [https://github.com/MahbubTanmay/All-Basic-About-File-Operation-in-Csharp](https://github.com/MahbubTanmay/Csharp-All-ABout-Array-and-Conversion-between-Array)
+[#Check Basics About Array in C#](https://github.com/MahbubTanmay/Csharp-All-ABout-Array-and-Conversion-between-Array)
